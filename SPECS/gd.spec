@@ -194,7 +194,7 @@ grep %{version} $RPM_BUILD_ROOT%{_libdir}/pkgconfig/gdlib.pc
 
 
 %changelog
-* Tue 17 Nov 2015 Ilya Otyutskiy <ilya.otyutskiy@icloud.com> - 2.1.1-1.vortex
+* Tue Nov 17 2015 Ilya Otyutskiy <ilya.otyutskiy@icloud.com> - 2.1.1-1.vortex
 - Port Remi's version to vortex
 
 * Mon Mar 23 2015 Remi Collet <remi@fedoraproject.org> - 2.1.1-2
